@@ -1,0 +1,13 @@
+body,html,h1,p{
+  margin:0;
+ padding:0;
+
+}
+
+.nav{
+  width: 25%;
+  height:100vh;
+  background-color: darkolivegreen;
+  color:white;
+  float:left;
+}
